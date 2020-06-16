@@ -13,6 +13,7 @@ b)DateTimeZone<br/>
 A time zone.<br/>
 <br/>
 <br/>
+Date string representations are based on ISO 8601 : <a href="https://en.wikipedia.org/wiki/ISO_8601"> https://en.wikipedia.org/wiki/ISO_8601</a><br/>
 <br/>
 II)The code<br/>
 <b>showYear1970()</b> shows how to represent Unix epoch.<br/>
